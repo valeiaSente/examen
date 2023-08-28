@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<head>
+    <title>"Mi Autobiografía"</title>
+</head>
+<body>
+    <header>
+        <h1 style="color:black; text-align:center;">mi Autobiografía</h1>
+    </header>
+    <section style= "text-align: center;">
+        <h2 style="color:blueviolet ; text-align: center;">introduccion:</h2>
+    <p>mi nombre: es Ana Valeria Sente Gutirrez</p>
+    <p>Edad:17 años</p>
+    <p>Padres:Ana Gutierrez y Armando Sente</p>
+    <p>hermanos:Nadia Sofia Sente Gutierrez</p>
+    </section>
+
+    <section style=" text-align: center; ">
+        <h2 style=" color:blueviolet; text-align: center;">Estudios academicos:</h2>
+    <p>Parvulos</p>
+    <p>Primaria</p>
+    <p>Mecanofrafía</p>
+    <p>Basicos</p>
+    <p>Diversificado</p>
+    </section>
+
+    <section style="text-align:justify;">
+        <h2 style="color:blueviolet; text-align: center;" >historia: </h2>
+
+          <img platoforma-de-infancia.img src="100px" alt="100px"  >
+
+    <p style="text-align:justify;">Mi nombre es Ana Valeria Sente Gutierrez tengo 17 años anci el 27 de Abril de 2006 mis padres son: Ana Gutierrez, Armando Sente tengo una hermana que se llama sofia.</p>
+    <p>Al cumplir los 4 años mis padres decidieron que empezara a ir a la escuela por lo que yo a esa edad empecé a asistir a clases por las mañanas.</p>
+    <p>Al salir de parvulos a los 7 años entre a estudiar primaria en la EOUM "Maria Chinchilla" por lo que todo era totalmente direfente ya que conoci a nuevas personas y nuevos maestros.</p>
+    <p>cuando estaba en tercero de primaria el maestro de musica me comento acerca de la banda escolar por lo que a mi me llamo la atencion asistir y ejecutar la lira era un instrumento muy bonito a mi parecer, por lo que empezamor a ensayar en la cancha de la esucela a la hora de salida.</p>
+    <p>Fue una experiencia muy bonita que me gusto mucho por lo que en los años que estuve en la primaria seguía participancdo y apoyando a la bnada escolar ya que si me gusto mucho tocar dicho instrumento.</p>
+    <p>Al yo estar en quinto mis padares me hablaron acerca de "mecanografia" y lo mucho en que ella me hiba a ayudar mas adelenate por lo que empece a estudiar por las tardes ya que por las mañanas yo estudiaba; era un tanto dificil ya que yo salia de estudiar a las:12:30 y a mecanografia entraba a la 1:30.</p>
+    <p>Era una tanto difícil pero estube así por dos años los cuales fueron cuando yo estuve en 5to. y 6to. de primaria.</p>
+    <p>Al yo terminar el curso comence a estudiar basicos en el reconocido instituto "Carlos Luttman Klenze" estudie 3 años en dicho instituto pero en el años 2019 en guatemala entro un viru llamado Covid-19 por lo que las clases se cancelaron y fue un tanto dificil ya que los maestros solo entregaban hojas de trabajo y no explicaban los temas por lo que era dificl conprender los temas</p>
+    <p>En 2022 comence a estudiar mi carrera en el distinguido instituto de eduacion diversificada "San Miguel"</p>
+    
+    
+    </section>
+    <footer>
+        <p style="text-align: center;">Esta fue mi Autobiografía... Gracias</p>
+    </footer>
+</body>
+</html>
